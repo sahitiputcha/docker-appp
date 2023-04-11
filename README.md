@@ -1,2 +1,2 @@
 # docker-appp
-This is a containorized application
+This is a containorized application.
